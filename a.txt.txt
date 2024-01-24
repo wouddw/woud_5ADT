@@ -7,3 +7,4 @@ aanbinden
 aanblikken
 aandrijven
 aanduwen
+hallo
